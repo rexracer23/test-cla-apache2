@@ -2,3 +2,5 @@
 Test for CLA
 
 Test 1
+Test 2
+
